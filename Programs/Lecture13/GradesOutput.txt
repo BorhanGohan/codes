@@ -1,0 +1,9 @@
+Student ID   Student Name      Total  Percent  Grade
+----------   ------------      -----  -------  -----
+921-09-3421  Abdul Wahab        437    87.40     A
+785-87-2356  Faisal Mahmud      350    70.00     B
+455-98-3244  Sanjida Khanam     393    78.60     B
+876-78-3457  Alpona Kasem       398    79.60     B
+457-08-9698  Ahmed Salah        312    62.40     C
+654-35-3242  Kabir Mohammad     304    60.80     C
+897-09-8547  Samina Ashraf      440    88.00     A
